@@ -12,7 +12,7 @@ I worked at the [Giepmans group](https://bscs.umcg.nl/en/groups/giepmans-group/)
   - _FAIR_ data management of EM data and experience in open-source microscopy formats.
   - Lead the publishing of following (dataset)[https://doi.org/10.17867/10000168], which won the RUG Open Research (award)[https://www.rug.nl/research/openscience/open-research-award/case-studies-list-2022/winners/winner-2022-fair-data-management-of-a-large-scale-electron-microscopy-database-for-type-1-diab?lang=en].
 
-<br><br>
+<br>
 
 **PhD student in computer science** @University of Groningen _(Feb 2016 - Dec 2020)_ <br>
 I did my PhD at the [Intelligent systems group](https://www.cs.rug.nl/is/) under supervision of Prof. Nicolai Petkov and Dr. George Azzopardi.
@@ -20,10 +20,17 @@ My thesis covered the two following topics:<br>
   1) Feature selection through the mechanism of boosting ([paper](https://www.sciencedirect.com/science/article/pii/S0957417421012513), [repo](https://github.com/amjams/FeatBoost)).
   2) Interpretable machine learning applied to livestock data ([Excerpt from thesis](https://pure.rug.nl/ws/portalfiles/portal/145238081/Title_and_contents.pdf)).
 
-<br><br>
+<br>
 
 **Research fellow** - @Politecnico di Milano _(2015)_ <br>
 I was a post-graduate research fellow and member of the EU project SmartH2O for urban water management.
+<br><br>
+
+## Education
+- PhD in Computer Science, University of Groningen, the Netherlands, thesis titled ”Feature selection and intelligent livestock management”. (2016-2020)
+- MSc in Automation and Control Engineering, Politecnico di Milano, Italy, thesis titled ”Projection vs. selection-based model reduction for emulation modeling in water resources planning and management problems”. (2012-2014)
+- BSc in Electrical Engineering, Kuwait University, Kuwait. (2006-2011)
+
 <br><br>
 
 ## Teaching and supervision
@@ -47,9 +54,4 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
   - BSc thesis project titled ”Prediction of Carcass Weight from Kinect Image Data”, N. Micallef (University of Malta, University of Groningen) (2017)
 <br><br>
 
-## Education
-- PhD in Computer Science, University of Groningen, the Netherlands, thesis titled ”Feature selection and intelligent livestock management”. (2016-2020)
-- MSc in Automation and Control Engineering, Politecnico di Milano, Italy, thesis titled ”Projection vs. selection-based model reduction for emulation modeling in water resources planning and management problems”. (2012-2014)
-- BSc in Electrical Engineering, Kuwait University, Kuwait. (2006-2011)
 
-<br><br>
