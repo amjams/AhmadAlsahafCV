@@ -71,7 +71,13 @@ Journal of animal science.
 <br>
 
 **Lectures, talks and posters** <br>
-
+- Co-chair and panelist in session on FAIR data at the Euro-BioImaging All-Hands meeting and the BioImaging and EOSC workshop at EMBL Heidelberg _(2023)_.
+- **A. Alsahaf**. Sustainable long-term archiving and publishing of large scale EM data. NEMI day (Netherlands Electron Microscopy Infrastructure. Leiden, the Netherlands _(2022)_.
+- **A. Alsahaf**. Invited lecture on tree-based ensemble learning at the winter school on machine learning, Las Palmas, Spain _(2019)_.
+- **Alsahaf, A.**, Azzopardi, G., and Petkov, N. _(2018)_. Estimation of live muscle scores of pigs with RGB-D images and machine learning. Abstract from FAIR Data Science for Green Life Sciences, Wageningen, Netherlands.
+- **A. Alsahaf**, G. Azzopardi, B. Ducro, R.F. Veerkamp, N. Petkov. SmartBreed: On the use of Machine Learning in Animal Breeding. Abstract from Challenges in Data Science, Matera, Italy. _(2016)_.
+-  Galelli, S., **Alsahaf, A.**, Giuliani, M. and Castelletti, A., _(2015)_, December. Yielding physically-interpretable emulators- A Sparse PCA approach. In AGU Fall Meeting Abstracts.
+-  **Alsahaf, A.**, Giuliani, M., Galelli, S. and Castelletti, A., _(2015)_, April. Model reduction of process-based hydro-ecological models: a comparison between projection-and selection-based methods. In EGU General Assembly Conference Abstracts.
 
 
 
