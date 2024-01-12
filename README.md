@@ -20,6 +20,8 @@ My thesis covered the two following topics:
   1) Feature selection through the mechanism of boosting ([paper](https://www.sciencedirect.com/science/article/pii/S0957417421012513), [repo](https://github.com/amjams/FeatBoost)).
   2) Interpretable machine learning applied to livestock data ([Excerpt from thesis](https://pure.rug.nl/ws/portalfiles/portal/145238081/Title_and_contents.pdf)).
 
+<br><br>
+
 **Research fellow** - @Politecnico di Milano _(2015)_ <br>
 I was a post-graduate research fellow and member of the EU project SmartH2O for urban water management.
 <br><br>
@@ -35,4 +37,12 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
   - Teaching assistant for the BSc course introduction to computing science (5 ECTS, University of Groningen) (2017-2018).
 
 ### Supervision
+  - PhD project ”Automatic identification of cellular structures in electron microscopy images”. Anusha Aswath (University of Groningen, UMCG) (2021)
+  - Five student group project on the ”Hyperspectral analysis of STEM-EDX images in biology”. Hanzehogeschool Groningen (2023).
+  - MSc project titled ”Evaluating the performance of supervised feature ranking algorithms on tabular feature datasets”, J. Overschie (University of Groningen) (2021).
+  - BSc project (ongoing) titled ”Speeding up the feature selection algorithm FeatBoost”, N. Dijkema (University of Groningen) (2020).
+  - Research internship project titled ”Feature selection performance assessment”, J. Overschie (University of Groningen) (2020).
+  - BSc thesis project titled ”A data-driven approach to calving ease prediction”, Radu Gheorghe (University of Groningen) (2020).
+  - Research internship project on iterative feature selection, V. Shenoy (University of Groningen) (2018).
+  - BSc thesis project titled ”Prediction of Carcass Weight from Kinect Image Data”, N. Micallef (University of Malta, University of Groningen) (2017)
 
