@@ -1,6 +1,7 @@
 # Ahmad Alsahaf, PhD
 
 _Computer scientist and researcher currently based in 🇳🇱_ <br>
+[Email:ahmadalsahaf@gmail.com](mailto:ahmadalsahaf@gmail.com) / [Website:amjams.net](https://amjams.net/) / [LinkedIn: aj-alsahaf](https://www.linkedin.com/in/aj-alsahaf/) / [GitHub: amjams](https://github.com/amjams/) 
 
 ## Experience
 
