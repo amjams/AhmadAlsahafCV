@@ -11,7 +11,7 @@ I worked at the [Giepmans group](https://bscs.umcg.nl/en/groups/giepmans-group/)
   - Segmentation of large-scale electron microscopy data in life sciences ([paper](https://pubmed.ncbi.nlm.nih.gov/37572414/))
   - Supervision of MSc and PhD students.
   - _FAIR_ data management of EM data and experience in open-source microscopy formats.
-  - Lead the publishing of following [dataset](https://doi.org/10.17867/10000168), which won the RUG Open Research [award](https://www.rug.nl/research/openscience/open-research-award/case-studies-list-2022/winners/winner-2022-fair-data-management-of-a-large-scale-electron-microscopy-database-for-type-1-diab?lang=en).
+  - Lead the effort to publish the following [dataset](https://doi.org/10.17867/10000168), which won the RUG Open Research [award](https://www.rug.nl/research/openscience/open-research-award/case-studies-list-2022/winners/winner-2022-fair-data-management-of-a-large-scale-electron-microscopy-database-for-type-1-diab?lang=en).
 
 <br>
 
