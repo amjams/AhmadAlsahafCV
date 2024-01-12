@@ -12,7 +12,7 @@ I worked at the [Giepmans group](https://bscs.umcg.nl/en/groups/giepmans-group/)
   - _FAIR_ data management of EM data and experience in open-source microscopy formats.
   - Lead the publishing of following (dataset)[https://doi.org/10.17867/10000168], which won the RUG Open Research (award)[https://www.rug.nl/research/openscience/open-research-award/case-studies-list-2022/winners/winner-2022-fair-data-management-of-a-large-scale-electron-microscopy-database-for-type-1-diab?lang=en].
 
-<br>
+<br><br>
 
 **PhD student in computer science** @University of Groningen _(Feb 2016 - Dec 2020)_ <br>
 I did my PhD at the [Intelligent systems group](https://www.cs.rug.nl/is/) under supervision of Prof. Nicolai Petkov and Dr. George Azzopardi.
@@ -22,6 +22,17 @@ My thesis covered the two following topics:
 
 **Research fellow** - @Politecnico di Milano _(2015)_ <br>
 I was a post-graduate research fellow and member of the EU project SmartH2O for urban water management.
-<br>
+<br><br>
 
-## Teaching a
+## Teaching and supervision
+### Teaching
+  - Designed and taught several lectures on computer vision and data science for students of biology and biomedical science (UMC Groningen and Hanzehogeschool Groningen) (2021-2023).
+  - Guest lecturer on the topic of pre-processing techniques for machine learning for the MSc course Introduction to Data Science (5 ECTS, University of Groningen) (2020-2021).
+  - Teaching assistant for the BSc course parallel computing (5 ECTS, University of Groningen).
+ Lecture on tree-based ensemble learning at the winter school on machine learning (WISMAL 2019), Las Palmas, Spain (2019).
+  - Guest lecturer for the the MSc pattern recognition (5 ECTS, University of Groningen) (2018-2019).
+  - Teaching assistant for the MSc course pattern recognition, and helped with course digitization (5 ECTS, University of Groningen) (2017-2018).
+  - Teaching assistant for the BSc course introduction to computing science (5 ECTS, University of Groningen) (2017-2018).
+
+### Supervision
+
