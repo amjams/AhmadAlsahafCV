@@ -18,7 +18,7 @@ I worked at the [Giepmans group](https://bscs.umcg.nl/en/groups/giepmans-group/)
 **PhD student in computer science** @University of Groningen _(Feb 2016 - Dec 2020)_ <br>
 I did my PhD at the [Intelligent systems group](https://www.cs.rug.nl/is/) under supervision of Prof. Nicolai Petkov and Dr. George Azzopardi.
 My thesis covered the two following topics:<br>
-  1) Feature selection through the mechanism of boosting ([paper](https://www.sciencedirect.com/science/article/pii/S0957417421012513), [repo](https://github.com/amjams/FeatBoost)).
+  1) Feature selection through the mechanism of boosting ([paper](https://www.sciencedirect.com/science/article/pii/S0957417421012513), [repo](https://github.com/amjams/FeatBoost)).<br>
   2) Interpretable machine learning applied to livestock data ([Excerpt from thesis](https://pure.rug.nl/ws/portalfiles/portal/145238081/Title_and_contents.pdf)).
 
 <br>
@@ -55,6 +55,23 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
   - BSc thesis project titled ”Prediction of Carcass Weight from Kinect Image Data”, N. Micallef (University of Malta, University of Groningen) _(2017)_.
 
 <br><br>
+
+## Publications
+
+**Journal articles and conference proceedings** <br>
+- Aswath, A., **Alsahaf, A.**, Giepmans, B. N., Azzopardi, G. _(2023)_. Segmentation in large-scale cellular electron microscopy with deep learning: A literature survey. Medical image analysis.
+- **Alsahaf, A.**, Gheorghe, R., Hidalgo, A. M., Petkov, N., Azzopardi, G. _(2023)_. Pre-insemination prediction of dystocia in dairy cattle. Preventive Veterinary Medicine.
+- Overschie, J. G., **Alsahaf, A.**, Azzopardi, G. _(2022)_. fseval: A Benchmarking Framework for Feature Selection and Feature Ranking Algorithms. Journal of Open Source Software.
+- **Alsahaf, A.**, Petkov, N., Shenoy, V., and Azzopardi, G. _(2021)_ ”A framework for feature selection through boosting.” Expert Systems with Applications.
+- **Alsahaf, A.**, Azzopardi, G., Ducro, B., Hanenberg, E., Veerkamp, R. F., and Petkov, N. (2019). Estimation of Muscle Scores of Live Pigs Using a Kinect Camera. IEEE Access.
+- **Alsahaf, A.**, Azzopardi, G., Ducro, B., Hanenberg, E., Veerkamp, R.F. and Petkov, N. _(2018)_. Prediction of slaughter age in pigs and assessment of the predictive value of phenotypic and genetic information using random forest.
+Journal of animal science.
+- **Alsahaf, A.**, Ducro, B., Veerkamp, R., Azzopardi, G., and Petkov, N _(2018)_. Assigning pigs to uniform target weight groups using machine learning. In World Congress on Genetics Applied to Livestock Production (WCGALP).
+- **A. Alsahaf**, G. Azzopardi, B. Ducro, R.F. Veerkamp, N. Petkov. _(2018)_ Predicting Slaughter Weight in Pigs with Regression Tree Ensembles. In Proceedings of the 1st International APPIS Conference, IOS press.
+<br>
+
+**Lectures, talks and posters** <br>
+
 
 
 
