@@ -71,6 +71,7 @@ Journal of animal science.
 <br>
 
 **Lectures, talks and posters** <br>
+- Invited speaker at Microscopy & Microanalysis 2024 Annual Scientific Meeting in Cleveland, Ohio, US _(July 2024)_.
 - Co-chair and panelist in session on FAIR data at the Euro-BioImaging All-Hands meeting and the BioImaging and EOSC workshop at EMBL Heidelberg _(2023)_.
 - **A. Alsahaf**. Sustainable long-term archiving and publishing of large scale EM data. NEMI day (Netherlands Electron Microscopy Infrastructure. Leiden, the Netherlands _(2022)_.
 - **A. Alsahaf**. Invited lecture on tree-based ensemble learning at the winter school on machine learning, Las Palmas, Spain _(2019)_.
