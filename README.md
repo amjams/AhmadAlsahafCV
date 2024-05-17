@@ -36,7 +36,7 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
 
 ## Teaching and supervision
 ### Teaching
-  - Designed and taught several lectures on computer vision and data science for students of biology and biomedical science (UMC Groningen and Hanzehogeschool Groningen) _(2021-2023)_.
+  - Designed and taught several lectures on computer vision and data science for students of biology and biomedical science (UMC Groningen and Hanzehogeschool Groningen) _(2021-2024)_.
   - Guest lecturer on the topic of pre-processing techniques for machine learning for the MSc course Introduction to Data Science (5 ECTS, University of Groningen) _(2020-2021)_.
   - Teaching assistant for the BSc course parallel computing (5 ECTS, University of Groningen) _(2020)_.
  Lecture on tree-based ensemble learning at the winter school on machine learning (WISMAL 2019), Las Palmas, Spain _(2019)_.
