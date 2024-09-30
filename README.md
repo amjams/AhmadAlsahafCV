@@ -50,7 +50,7 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
 
 ### Publications
 
-**Preprints
+**Preprints**
 - Duinkerken, B. P., Alsahaf, A. M., Hoogenboom, J. P., & Giepmans, B. N. (2024). Automated analysis of ultrastructure through large-scale hyperspectral electron microscopy ([DOI](https://doi.org/10.1093/mam/ozae044.489)).
 
 **Journal articles and conference proceedings**
