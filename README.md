@@ -65,7 +65,7 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
 
 **Lectures, talks and posters**
 - Invited speaker at Microscopy & Microanalysis 2024 Annual Scientific Meeting in Cleveland, Ohio, US (July 2024).
-- "Hperspectral Analysis of Large-scale EM" ([poster](https://www.amjams.net/blog-1/aibia-conference-poster-utrecht-may-2024)) -  Artificial Intelligence for Bio-oriented Imaging Analysis  (AIBIA) Conference, Utrecht (May 2024).
+- "Hperspectral Analysis of Large-scale EM" ([poster](https://www.amjams.net/blog/aibia-conference-poster-utrecht-may-2024)) -  Artificial Intelligence for Bio-oriented Imaging Analysis  (AIBIA) Conference, Utrecht (May 2024).
 - Co-chair and panelist in session on FAIR data at the Euro-BioImaging All-Hands meeting and the BioImaging and EOSC workshop at EMBL Heidelberg (2023).
 - A. Alsahaf. Sustainable long-term archiving and publishing of large scale EM data. NEMI day (Netherlands Electron Microscopy Infrastructure. Leiden, the Netherlands (2022).
 - A. Alsahaf. Invited lecture on tree-based ensemble learning at the winter school on machine learning, Las Palmas, Spain (2019).
