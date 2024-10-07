@@ -51,7 +51,7 @@ I was a post-graduate research fellow and member of the EU project SmartH2O for 
 ### Publications
 
 **Preprints**
-- Duinkerken, B. P., Alsahaf, A. M., Hoogenboom, J. P., & Giepmans, B. N. (2024). Automated analysis of ultrastructure through large-scale hyperspectral electron microscopy ([DOI](https://doi.org/10.1093/mam/ozae044.489)).
+- Duinkerken, B. P., Alsahaf, A. M., Hoogenboom, J. P., & Giepmans, B. N. (2024). Automated analysis of ultrastructure through large-scale hyperspectral electron microscopy ([DOI](https://doi.org/10.21203/rs.3.rs-5144875/v1)).
 
 **Journal articles and conference proceedings**
 - Aswath, A., Alsahaf, A., Giepmans, B. N., Azzopardi, G. (2023). Segmentation in large-scale cellular electron microscopy with deep learning: A literature survey. Medical image analysis.
