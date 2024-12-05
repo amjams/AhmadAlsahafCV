@@ -1,4 +1,4 @@
-Ahmad Alsahaf, PhD
+A. J. Alsahaf, PhD
 
 Computer scientist and researcher based in the Netherlands  
 Email: [ahmadalsahaf@gmail.com](mailto:ahmadalsahaf@gmail.com) / LinkedIn: [aj-alsahaf](https://www.linkedin.com/in/aj-alsahaf/) / GitHub: [amjams](https://github.com/amjams/) 
