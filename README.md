@@ -5,7 +5,7 @@ Email: [ahmadalsahaf@gmail.com](mailto:ahmadalsahaf@gmail.com) / LinkedIn: [aj-a
 
 ### Experience
 
-**Post-doctoral researcher - University Medical Center Groningen (2021 - 2024)**  
+**Post-doctoral researcher - University Medical Center Groningen (2021 - present)**  
 I work at the [Giepmans group](https://bscs.umcg.nl/en/groups/giepmans-group/) where my primary focus is the analysis of cellular images from large-scale electron microscopy.
 - Hyperspectral analysis of X-ray dispersive data ([recently published in npj Imaging](https://doi.org/10.1038/s44303-024-00059-7)).
 - Segmentation of large-scale electron microscopy data in life sciences ([paper](https://pubmed.ncbi.nlm.nih.gov/37572414/)).
